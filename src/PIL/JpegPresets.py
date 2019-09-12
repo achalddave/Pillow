@@ -33,7 +33,7 @@ Possible subsampling values are 0, 1 and 2 that correspond to 4:4:4, 4:2:2 and
 4:2:0.
 
 You can get the subsampling of a JPEG with the
-`JpegImagePlugin.get_subsampling(im)` function.
+`JpegImagePlugin.get_sampling(im)` function.
 
 
 Quantization tables
